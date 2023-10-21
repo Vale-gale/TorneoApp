@@ -12,7 +12,7 @@ TorneoApp es una aplicación de gestión de torneos de tenis que facilita la ins
 VERSIÓN o FECHA: v2.0 (Octubre de 2023)
 
 CÓMO INICIAR EL PROYECTO:
-1. Clona el repositorio: `git clone https://github.com/tuusuario/torneoapp.git`
+1. Clona el repositorio: `git clone https://github.com/Vale-gale/TorneoApp`
 2. Ingresa al directorio del proyecto: `cd torneoapp`
 3. Ejecuta la aplicación: `java -jar torneoapp.jar`
 
