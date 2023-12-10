@@ -16,6 +16,8 @@ CÓMO INICIAR EL PROYECTO:
 2. Ingresa al directorio del proyecto: `cd torneoapp`
 3. Ejecuta la aplicación: `java -jar torneoapp.jar`
 
+---> Las técnologías utilizadas son Java como lenguaje de programación, Android Studio como herramienta de utilidades eligiendo como versión de Android la Oreo 8.1.
+
 AUTORES: 
 - Valentina Galeano
 - Nelson Barboza
